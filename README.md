@@ -1,5 +1,7 @@
-# sqlalchemy-challenge
+# Weather Analysis
 SQLAlchemy Assignment - Surfs Up!
+<br>
+<i>(sqlalchemy-challenge)</i>
 
 ## Background
 Step 1 - Climate Analysis and Exploration
